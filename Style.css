@@ -1,0 +1,56 @@
+.Start {background-image: url(Images/Limbogate.jpg);
+	  background-repeat: no-repeat; 
+	  background-size: cover;
+}
+
+.Limbo {background-image: url(Images/Limbo.jpg);
+	  background-repeat: no-repeat; 
+	  background-size: cover;
+}
+
+.Lust {background-image: url(Images/Lust.jpg);
+	  background-repeat: no-repeat; 
+	  background-size: cover;		
+}
+
+.Gluttony {background-image: url(Images/Gluttony.jpg);
+	  	   background-repeat: no-repeat; 
+	 	   background-size: cover;	
+}
+.Greed {background-image: url(Images/Greed.jpg);
+	  	background-repeat: no-repeat; 
+	 	background-size: cover;	
+}
+
+h1 {	text-align: center;
+		text-shadow: 2px 2px 5px black;
+		color: white;
+		font-size: 40px;
+		font-family: "Times New Roman", Times, serif;
+
+}
+
+p {		text-align: center; 
+		text-shadow: 2px 2px 5px black;
+		color: white;
+		font-size: 25px;
+		font-family: "Times New Roman", Times, serif;
+}
+
+.Enter { display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+}
+
+button {  display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+
+		background-color: gray;
+		border: none;
+		font-size: 25px;
+		color: white;
+		font-family: "Times New Roman", Times, serif;
+
+
+}
